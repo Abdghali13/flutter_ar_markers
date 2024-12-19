@@ -1,0 +1,30 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_ar_markers (0.0.1):
+    - Flutter
+    - HDAugmentedReality
+  - HDAugmentedReality (3.0.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_ar_markers (from `.symlinks/plugins/flutter_ar_markers/ios`)
+  - HDAugmentedReality (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - HDAugmentedReality
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_ar_markers:
+    :path: ".symlinks/plugins/flutter_ar_markers/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_ar_markers: 0b1e601d7520eb27d62cdf8e36aaeec148c045cc
+  HDAugmentedReality: ff518e9c08704261b4226ffa820464aa5a9b1626
+
+PODFILE CHECKSUM: 2f3334035a6c3ef382d314b98f78422a2721b907
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,22 @@
+name: flutter_ar_markers_example
+description: Demonstrates how to use the flutter_ar_markers plugin.
+
+publish_to: 'none' # This is to prevent publishing this example app.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_ar_markers:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
